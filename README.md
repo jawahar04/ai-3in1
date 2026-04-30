@@ -1,4 +1,4 @@
-# AI 3-in-1: Agents, RAG and Local Models
+# AI 3-in-1: Agents, RAG and Local Models that runs in my machine
 
 ## Building out an AI agent that uses RAG and runs locally ##
 
